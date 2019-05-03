@@ -1,0 +1,598 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en">
+<!--<![endif]-->
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta property="og:description" content="Large scale new developments that transform green spaces into sustainable places for people to live and helps meet the need for 300,000 news homes every year. ">
+<meta property="og:title" content="Garden communities">
+<meta property="og:url" content="https://www.integration.publishing.service.gov.uk/government/publications/garden-communities">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GOV.UK">
+<meta name="twitter:card" content="summary">
+<meta name="description" content="Large scale new developments that transform green spaces into sustainable places for people to live and helps meet the need for 300,000 news homes every year. ">
+<meta name="govuk:ab-test" content="RelatedLinksABTest4:A" data-analytics-dimension="65" data-allowed-variants="A,B,C">
+<meta name="govuk:taxon-slugs" content="housing-design-and-sustainability,land-development-opportunities">
+<meta name="govuk:taxon-slug" content="housing-design-and-sustainability">
+<meta name="govuk:taxon-ids" content="d5c58fc7-dc3f-4142-a337-039d244b6105,c0e3093c-fd53-4129-ac76-a869b1bb8c21">
+<meta name="govuk:taxon-id" content="d5c58fc7-dc3f-4142-a337-039d244b6105">
+<meta name="govuk:themes" content="housing-local-and-community">
+<meta name="govuk:publishing-government" content="2015-conservative-government">
+<meta name="govuk:political-status" content="non-political">
+<meta name="govuk:analytics:organisations" content="&lt;D4&gt;&lt;PB1232&gt;">
+<meta name="govuk:content-id" content="2050a36a-6b1e-42cc-b2f9-98f931b7060c">
+<meta name="govuk:schema-name" content="publication">
+<meta name="govuk:publishing-application" content="whitehall">
+<meta name="govuk:format" content="guidance">
+<meta name="csrf-token" content="z4S41JPOxcC8Q6G6YfeaZNcpcYIO8xiRDNuUKAtzJGeHFe/MYIZQrBZiszo0Wb+Xj1JfWgQ4TqImeGCHSwDFUg==">
+<meta name="csrf-param" content="authenticity_token">
+    <meta charset="utf-8">
+    <title lang="en">
+      Garden communities - GOV.UK
+  </title>
+
+    <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/govuk-template-f88b2515ce05ac27445a4889154ded4810d67298edd970fef55db3b7badf7207.css" crossorigin="anonymous" integrity="sha256-+IslFc4FrCdEWkiJFU3tSBDWcpjt2XD+9V2zt7rfcgc=">
+<!--<![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/govuk-template-ie6-45653019801261ec1ba95941ae108a54bac0c2665e6782f723f02482dceda82b.css" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/govuk-template-ie7-7e8b2147c67ebda8d9458978ff0426d704bb52ad5582a50fded9fdd9bf2b4e91.css" /><![endif]-->
+    <!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/govuk-template-ie8-f9e63bf0305a867d6acf4b07751ad87f573ae3387cdf5a01b86d1f04f1456a3b.css" /><![endif]-->
+    <link rel="stylesheet" media="print" href="https://assets.integration.publishing.service.gov.uk/static/govuk-template-print-1076519521c2fffbbf75ab3b0d3b32ee2d96ac7e9778f1cdfac1771eefd1a1c0.css" crossorigin="anonymous" integrity="sha256-EHZRlSHC//u/das7DTsy7i2WrH6XePHN+sF3Hu/RocA=">
+
+    <link rel="stylesheet" media="all" href="https://assets.integration.publishing.service.gov.uk/static/fonts-40d92c0fd4588ecfb6aa04c9f6200a28c6ba4be517039122455e36c261188fec.css" crossorigin="anonymous" integrity="sha256-QNksD9RYjs+2qgTJ9iAKKMa6S+UXA5EiRV42wmEYj+w=">
+    <!--[if lt IE 9]><script src="https://assets.integration.publishing.service.gov.uk/static/ie-a4524544a53d57a7e259b4bb966b9c32557c98c920b77e52d09304642b68401a.js" crossorigin="anonymous" integrity="sha256-pFJFRKU9V6fiWbS7lmucMlV8mMkgt35S0JMEZCtoQBo="></script><![endif]-->
+
+    <link rel="shortcut icon" href="https://assets.integration.publishing.service.gov.uk/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico" type="image/x-icon">
+    <link rel="mask-icon" href="https://assets.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown-de738c3fcce8ce2a91b67e89787090dc24a5cda0275ab6b75f6226c5b9619d3d.svg" color="#0b0c0c">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://assets.integration.publishing.service.gov.uk/static/apple-touch-icon-180x180-ea1cbb1cbbeddfff275dfa6e8e46b84cd530892df79dc4882a8f99b802b49a90.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="https://assets.integration.publishing.service.gov.uk/static/apple-touch-icon-167x167-181e404a50c572923285fb83f0fbd78da6b4e38e3ce52f8e6b8e29da8586450a.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://assets.integration.publishing.service.gov.uk/static/apple-touch-icon-152x152-02457fcdcee8d309276305af2233d41bfb8fd055e855727d355e61bce7ffa9bb.png">
+    <link rel="apple-touch-icon" href="https://assets.integration.publishing.service.gov.uk/static/apple-touch-icon-a318f305290c523aed80082456175b46c95350c0eeac93f42e78a71c7a55544e.png">
+
+    <meta name="theme-color" content="#0b0c0c">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/core-layout-cb26a66aeab9ab30880d880b5f6bb1f9310e09819930a730c15975731bb7a30b.css" crossorigin="anonymous" integrity="sha256-yyamauq5qzCIDYgLX2ux+TEOCYGZMKcwwVl1cxu3ows=">
+<!--<![endif]-->
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/core-layout-ie6-c85f0f62aa9ca96ae590b5aa72b4eff29ce26da786fdf7b539781a3fb32c6414.css" /><script>var ieVersion = 6;</script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/core-layout-ie7-653b62c61dc5631053738d500bcad3c375be6e7279d2231ec23ea83a0d211308.css" /><script>var ieVersion = 7;</script><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/static/core-layout-ie8-6077a0cb0e527edb2c89631c60c8fb2f51656c346ce5fdf350b3aec78ba30bce.css" /><script>var ieVersion = 8;</script><![endif]-->
+
+<link rel="stylesheet" media="print" href="https://assets.integration.publishing.service.gov.uk/static/core-layout-print-9a2de3ce1590c8ca478a6f7edf5a2e4bad0c6291b1dd4a6e7ca85f653d9591b4.css" crossorigin="anonymous" integrity="sha256-mi3jzhWQyMpHim9+31ouS60MYpGx3UpufKhfZT2VkbQ=">
+
+
+
+    <meta property="og:image" content="https://assets.integration.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
+  <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/government-frontend/application-8954c4d5551c40971f9c048af4238f7ab17a69d432f432dcc6676dff92997090.css" crossorigin="anonymous" integrity="sha256-iVTE1VUcQJcfnASK9COPerF6adQy9DLcxmdt/5KZcJA=">
+<!--<![endif]--><link rel="stylesheet" media="print" href="https://assets.integration.publishing.service.gov.uk/government-frontend/print-2e0e521bf0d37616a753ab9bbc0896836c12ce64d75aeb9938a48984dbd6e648.css" crossorigin="anonymous" integrity="sha256-Lg5SG/DTdhanU6ubvAiWg2wSzmTXWuuZOKSJhNvW5kg=">
+<link rel="canonical" href="https://www.integration.publishing.service.gov.uk/government/publications/garden-communities">
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/government-frontend/application-ie6-27f77ca0ae6b17e52d201fbe5ca4637e07fa78797aa8473a031a610f1b131993.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/government-frontend/application-ie7-27f77ca0ae6b17e52d201fbe5ca4637e07fa78797aa8473a031a610f1b131993.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.integration.publishing.service.gov.uk/government-frontend/application-ie8-1bb8e3b80786aac77de7207a7a4d800d45d5f17de35d500785c71e8bee81d243.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
+</head>
+
+  <body class="draft">
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+
+    
+
+    <div id="skiplink-container">
+      <div>
+        <a href="#content" class="skiplink">Skip to main content</a>
+      </div>
+    </div>
+
+    
+<div id="global-cookie-message" class="gem-c-cookie-banner" data-module="cookie-banner">
+  <p class="gem-c-cookie-banner__message govuk-width-container">  GOV.UK uses cookies to make the site simpler. <a class="govuk-link" href="/help/cookies" data-module="track-click" data-track-category="cookieBanner" data-track-action="Cookie banner clicked">Find out more about cookies</a> or <a class="govuk-link" href="#" data-hide-cookie-banner="true" data-module="track-click" data-track-category="cookieBanner" data-track-action="Cookie banner hidden">hide this message</a>
+</p>
+</div>
+
+
+    <header role="banner" id="global-header" class=" with-proposition">
+      <div class="header-wrapper">
+        <div class="header-global">
+          <div class="header-logo">
+            <a href="https://www.integration.publishing.service.gov.uk" title="Go to the GOV.UK homepage" id="logo" class="content" data-module="track-click" data-track-category="homeLinkClicked" data-track-action="homeHeader">
+              <img src="https://assets.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt=""> GOV.UK
+            </a>
+          </div>
+            <a href="#search" class="search-toggle js-header-toggle">Search</a>
+
+  <form id="search" class="site-search" action="/search" method="get" role="search">
+    <div class="content">
+      <label for="site-search-text">Search</label>
+      <input type="search" name="q" id="site-search-text" title="Search" class="js-search-focus">
+      <input class="submit" type="submit" value="Search">
+    </div>
+  </form>
+
+        </div>
+        
+      <div class="header-proposition">
+  <div class="content">
+    <a href="#proposition-links" class="js-header-toggle menu">Menu</a>
+  <nav id="proposition-menu" class="no-proposition-name gem-c-government-navigation">
+  <ul id="proposition-links">
+    <li>
+      <a class="" href="/government/organisations">
+        Departments
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/world">
+        Worldwide
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/how-government-works">
+        How government works
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/get-involved">
+        Get involved
+      </a>
+    </li>
+    <li class="clear-child">
+      <a class="active" href="/government/publications">
+        Publications
+      </a>
+    </li>
+    <li>
+      <a class="" href="/search/policy-papers-and-consultations?content_store_document_type%5B%5D=open_consultations&amp;amp;content_store_document_type%5B%5D=closed_consultations">
+        Consultations
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/statistics">
+        Statistics
+      </a>
+    </li>
+    <li>
+      <a class="" href="/news-and-communications">
+        News and communications
+      </a>
+    </li>
+  </ul>
+</nav>
+</div>
+</div>
+</div>
+    </header>
+
+      <div id="user-satisfaction-survey-container"></div>
+
+
+    <div id="global-header-bar"></div>
+
+      
+
+  <div id="wrapper" class="direction-ltr">
+    
+
+      
+<div class="gem-c-contextual-breadcrumbs">
+    
+
+
+<div class="gem-c-breadcrumbs govuk-breadcrumbs " data-module="track-click">
+  <ol class="govuk-breadcrumbs__list">
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="homeLinkClicked" data-track-action="homeBreadcrumb" data-track-label="" data-track-options="{}" class="govuk-breadcrumbs__link" aria-current="false" href="/">Home</a>
+      </li>
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="breadcrumbClicked" data-track-action="2" data-track-label="/housing-local-and-community" data-track-options='{"dimension28":"4","dimension29":"Housing, local and community"}' class="govuk-breadcrumbs__link" aria-current="false" href="/housing-local-and-community">Housing, local and community</a>
+      </li>
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="breadcrumbClicked" data-track-action="3" data-track-label="/housing-local-and-community/planning-and-building" data-track-options='{"dimension28":"4","dimension29":"Planning and building"}' class="govuk-breadcrumbs__link" aria-current="false" href="/housing-local-and-community/planning-and-building">Planning and building</a>
+      </li>
+      <li class="govuk-breadcrumbs__list-item" aria-current="false">
+          <a data-track-category="breadcrumbClicked" data-track-action="4" data-track-label="/housing-local-and-community/housing-design-and-sustainability" data-track-options='{"dimension28":"4","dimension29":"Housing design and sustainability"}' class="govuk-breadcrumbs__link" aria-current="false" href="/housing-local-and-community/housing-design-and-sustainability">Housing design and sustainability</a>
+      </li>
+  </ol>
+</div>
+
+
+</div>
+
+
+    <main role="main" id="content" class="publication" lang="en">
+      
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <div class="gem-c-title
+  
+  gem-c-title--margin-bottom-5">
+    <p class="gem-c-title__context">
+      Guidance
+    </p>
+  <h1 class="gem-c-title__text gem-c-title__text--long">
+    Garden communities
+  </h1>
+</div>
+
+  </div>
+  
+
+  <div class="govuk-grid-column-two-thirds">
+    
+  <p class="gem-c-lead-paragraph ">
+    Large scale new developments that transform green spaces into sustainable places for people to live and helps meet the need for 300,000 news homes every year. 
+  </p>
+
+  </div>
+</div>
+
+<div class="govuk-grid-row">
+  <div class="metadata-logo-wrapper">
+    <div class="govuk-grid-column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata">
+    
+      <div class="app-c-publisher-metadata__other">
+        <dl data-module="track-click">
+            <dt class="app-c-publisher-metadata__term">
+              From:
+            </dt>
+            <dd class="app-c-publisher-metadata__definition" data-module="gem-toggle">
+                <span class="app-c-publisher-metadata__definition-sentence">
+                  <a href="/government/organisations/ministry-of-housing-communities-and-local-government">Ministry of Housing, Communities &amp; Local Government</a> and <a href="/government/organisations/homes-england">Homes England</a>
+                </span>
+            </dd>
+        </dl>
+      </div>
+  </div>
+
+    </div>
+    <div class="govuk-grid-column-one-third">
+    </div>
+  </div>
+</div>
+
+
+
+
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds responsive-bottom-margin">
+    
+    <div class="responsive-bottom-margin">
+       <h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="documents-title">Documents</h2>
+
+
+<div aria-labelledby="documents-title">
+  
+<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
+      <section class="attachment embedded" id="attachment_3376995">
+  <div class="attachment-thumb">
+      <a aria-hidden="true" class="thumbnail" href="https://assets.integration.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/799598/Garden_Communities_Prospectus.pdf"><img alt="" src="https://assets.integration.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/799598/thumbnail_Garden_Communities_Prospectus.pdf.png"></a>
+  </div>
+  <div class="attachment-details">
+    <h2 class="title"><a aria-describedby="attachment-3376995-accessibility-help" href="https://assets.integration.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/799598/Garden_Communities_Prospectus.pdf">Garden communities prospectus</a></h2>
+    <p class="metadata">
+        <span class="type"><abbr title="Portable Document Format">PDF</abbr></span>, <span class="file-size">314KB</span>, <span class="page-length">10 pages</span>
+    </p>
+
+
+      <div data-module="toggle" class="accessibility-warning" id="attachment-3376995-accessibility-help">
+        <h2>This file may not be suitable for users of assistive technology.
+          <a class="toggler" href="#attachment-3376995-accessibility-request" data-controls="attachment-3376995-accessibility-request" data-expanded="false">Request an accessible format.</a>
+        </h2>
+        <p id="attachment-3376995-accessibility-request" class="js-hidden">
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email <a href="mailto:alternativeformats@communities.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Garden%20communities%20prospectus%0A%20%20Original%20format%3A%20pdf%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Garden%20communities%20prospectus%27%20in%20an%20alternative%20format">alternativeformats@communities.gov.uk</a>.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+        </p>
+      </div>
+  </div>
+</section>
+</div>
+
+</div>
+
+<h2 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="details-title">Details</h2>
+
+
+<div aria-labelledby="details-title">
+  
+<div class="gem-c-govspeak govuk-govspeak direction-ltr" data-module="govspeak">
+      <div class="govspeak">
+<p>Building on the principles from the garden cities of the past, garden communities create long-term sustainable housing, infrastructure and services in green areas around the UK.</p>
+
+<p><strong>What defines a garden community</strong></p>
+
+<ul>
+  <li>a purpose built new community, or extension to existing town</li>
+  <li>provides a housing need with requirements for both affordable and self-build homes</li>
+  <li>planned by local authorities or private sector in consultation with the local community</li>
+  <li>a sustainable long term plan for living</li>
+</ul>
+
+<p>As well as building new homes the communities develop</p>
+
+<ul>
+  <li>employment opportunity for residents.</li>
+  <li>public realm features, like town squares and cycle paths</li>
+  <li>transport  infrastructure, including roads, trains, bus, utilities</li>
+  <li>social infrastructure, schools, community and health centres</li>
+</ul>
+
+<p><strong>Contact us</strong></p>
+
+<p>If you’d like some further information about a garden community you can email us your question.</p>
+
+<p>Email  <a href="mailto:gardencommunities@communities.gsi.gov.uk">gardencommunities@communities.gsi.gov.uk</a></p>
+
+</div>
+</div>
+
+</div>
+
+    </div>
+
+    
+  </div>
+  
+<div class="govuk-grid-column-one-third">
+  
+<div class="gem-c-contextual-sidebar">
+
+    
+
+
+</div>
+
+</div>
+
+</div>
+
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+        
+  <div class="gem-c-contextual-footer">
+    
+  <div class="gem-c-related-navigation">
+
+
+
+
+
+      <nav role="navigation" class="gem-c-related-navigation__nav-section" aria-labelledby="related-nav-topics-1ba5b059" data-module="gem-toggle">
+
+    <h2 id="related-nav-topics-1ba5b059" class="gem-c-related-navigation__sub-heading gem-c-related-navigation__sub-heading--footer" data-track-count="footerRelatedItemSection">Explore the topic</h2>
+
+  <ul class="gem-c-related-navigation__link-list" data-module="track-click">
+
+
+        <li class="gem-c-related-navigation__link"><a class="gem-c-related-navigation__section-link gem-c-related-navigation__section-link--footer" data-track-category="relatedLinkClicked" data-track-action="1.1 Explore the topic" data-track-label="/topic/housing/land-development-opportunities" data-track-options='{"dimension28":"1","dimension29":"Land and development opportunities"}' href="/topic/housing/land-development-opportunities">Land and development opportunities</a></li>
+
+  </ul>
+</nav>
+
+  </div>
+
+  </div>
+
+
+    </div>
+  </div>
+
+
+    </main>
+    
+<div class="gem-c-feedback gem-c-feedback--top-margin" data-module="feedback">
+  
+<div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt" tabindex="-1">
+  <div class="gem-c-feedback__js-prompt-questions js-prompt-questions">
+    <h2 class="gem-c-feedback__prompt-question">Is this page useful?</h2>
+
+    <a class="gem-c-feedback__prompt-link" data-track-category="yesNoFeedbackForm" data-track-action="ffMaybeClick" aria-expanded="false" role="button" style="display: none;" hidden="hidden" aria-hidden="true" href="/contact/govuk">
+      Maybe
+</a>
+    <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--useful js-page-is-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffYesClick" aria-expanded="false" role="button" href="/contact/govuk">
+      Yes <span class="visually-hidden">this page is useful</span>
+</a>
+    <a class="gem-c-feedback__prompt-link js-toggle-form js-page-is-not-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffNoClick" aria-controls="page-is-not-useful" aria-expanded="false" role="button" href="/contact/govuk">
+      No <span class="visually-hidden">this page is not useful</span>
+</a>
+    <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--wrong js-toggle-form js-something-is-wrong" data-track-category="Onsite Feedback" data-track-action="GOV.UK Open Form" aria-controls="something-is-wrong" aria-expanded="false" role="button" href="/contact/govuk">
+      Is there anything wrong with this page?
+</a>  </div>
+
+  <div class="gem-c-feedback__prompt-success js-prompt-success js-hidden" tabindex="-1">
+    Thank you for your feedback
+  </div>
+</div>
+
+  <form action="/contact/govuk/problem_reports" id="something-is-wrong" class="gem-c-feedback__form js-feedback-form js-hidden" data-track-category="Onsite Feedback" data-track-action="GOV.UK Send Form" method="post">
+  <a href="#" class="gem-c-feedback__close gem-c-feedback__js-show js-close-form" data-track-category="Onsite Feedback" data-track-action="GOV.UK Close Form" aria-controls="something-is-wrong" aria-expanded="true" role="button">Close</a>
+
+  <div class="gem-c-feedback__grid-row">
+    <div class="gem-c-feedback__column-two-thirds">
+      <div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-hidden js-errors" tabindex="-1"></div>
+
+      <input type="hidden" name="url" value="https://draft-origin.integration.publishing.service.gov.uk/government/publications/garden-communities">
+
+      <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
+      <p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Don’t include personal or financial information like your National Insurance number or credit card details.</p>
+
+      
+<div class="govuk-form-group">
+    
+<label for="input-96976b03" class="gem-c-label govuk-label">
+  What were you doing?
+</label>
+
+
+
+
+  <input name="what_doing" class="gem-c-input govuk-input" id="input-96976b03" type="text" aria-describedby="feedback_explanation">
+</div>
+
+      
+<div class="govuk-form-group">
+    
+<label for="input-15418adc" class="gem-c-label govuk-label">
+  What went wrong?
+</label>
+
+
+
+
+  <input name="what_wrong" class="gem-c-input govuk-input" id="input-15418adc" type="text">
+</div>
+
+      
+  <button class="gem-c-button govuk-button" type="submit">Send</button>
+
+
+    </div>
+  </div>
+</form>
+
+  <form action="/contact/govuk/email-survey-signup" id="page-is-not-useful" class="gem-c-feedback__form gem-c-feedback__form--email gem-c-feedback__js-show js-feedback-form js-hidden" data-track-category="yesNoFeedbackForm" data-track-action="Send Form" method="post">
+  <a href="#" class="gem-c-feedback__close js-close-form" data-track-category="yesNoFeedbackForm" data-track-action="ffFormClose" aria-controls="page-is-not-useful" aria-expanded="true" role="button">Close</a>
+
+  <div class="gem-c-feedback__grid-row">
+    <div class="gem-c-feedback__column-two-thirds">
+      <div class="gem-c-feedback__error-summary js-hidden js-errors" tabindex="-1"></div>
+
+      <input name="email_survey_signup[survey_id]" type="hidden" value="footer_satisfaction_survey">
+      <input name="email_survey_signup[survey_source]" type="hidden" value="/government/publications/garden-communities">
+      <input name="email_survey_signup[ga_client_id]" type="hidden" value="1627485790.1515403243">
+
+      <h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
+      <p id="survey_explanation" class="gem-c-feedback__form-paragraph">To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.</p>
+
+      
+<div class="govuk-form-group">
+    
+<label for="input-763e5495" class="gem-c-label govuk-label">
+  Email address
+</label>
+
+
+
+
+  <input name="email_survey_signup[email_address]" class="gem-c-input govuk-input" id="input-763e5495" type="email" autocomplete="email" aria-describedby="survey_explanation">
+</div>
+
+      
+  <button class="gem-c-button govuk-button" type="submit">Send me the survey</button>
+
+
+      <a href="https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=/government/publications/garden-communities&amp;gcl=1627485790.1515403243" class="gem-c-feedback__email-link govuk-link" id="take-survey" target="_blank" rel="noopener noreferrer">Don’t have an email address?</a>
+    </div>
+  </div>
+</form>
+
+</div>
+
+  </div>
+
+
+    <footer class="group js-footer" id="footer" role="contentinfo">
+
+      <div class="footer-wrapper">
+            <div class="footer-categories" data-module="track-click">
+      <div class="footer-explore">
+        <h2>Prepare for EU Exit</h2>
+
+        <ul>
+          <li><a data-track-category="footerClicked" data-track-action="brexitLinks" data-track-label="Prepare your business or organisation for the UK leaving the EU" href="/business-uk-leaving-eu">Prepare your business or organisation for the UK leaving the EU</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="brexitLinks" data-track-label="Prepare for EU Exit if you live in the UK" href="/prepare-eu-exit">Prepare for EU Exit if you live in the UK</a></li>
+        </ul>
+        <ul>
+          <li><a data-track-category="footerClicked" data-track-action="brexitLinks" data-track-label="Living in Europe after the UK leaves the EU" href="/uk-nationals-living-eu">Living in Europe after the UK leaves the EU</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="brexitLinks" data-track-label="Continue to live in the UK after it leaves the EU" href="/staying-uk-eu-citizen">Continue to live in the UK after it leaves the EU</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-categories" data-module="track-click">
+      <div class="footer-explore">
+        <h2>Services and information</h2>
+
+        <ul>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Benefits" href="/browse/benefits">Benefits</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Births, deaths, marriages and care" href="/browse/births-deaths-marriages">Births, deaths, marriages and care</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Business and self-employed" href="/browse/business">Business and self-employed</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="" href="/browse/childcare-parenting">Childcare and parenting</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Citizenship and living in the UK" href="/browse/citizenship">Citizenship and living in the UK</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Crime, justice and the law" href="/browse/justice">Crime, justice and the law</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Disabled people" href="/browse/disabilities">Disabled people</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Driving and transport" href="/browse/driving">Driving and transport</a></li>
+        </ul>
+        <ul>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Education and learning" href="/browse/education">Education and learning</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Employing people" href="/browse/employing-people">Employing people</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Environment and countryside" href="/browse/environment-countryside">Environment and countryside</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Housing and local services" href="/browse/housing-local-services">Housing and local services</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Money and tax" href="/browse/tax">Money and tax</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Passports, travel and living abroad" href="/browse/abroad">Passports, travel and living abroad</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Visas and immigration" href="/browse/visas-immigration">Visas and immigration</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Working, jobs and pensions" href="/browse/working">Working, jobs and pensions</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-inside-government">
+        <h2>Departments and policy</h2>
+
+        <ul>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="How government works" href="/government/how-government-works">How government works</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Departments" href="/government/organisations">Departments</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Worldwide" href="/world">Worldwide</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Services" href="/search/services">Services</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Guidance and regulation" href="/search/guidance-and-regulation">Guidance and regulation</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="News and communications" href="/search/news-and-communications">News and communications</a></li>
+          <!--li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Research and statistics</" href="/search/statistics">Research and statistics</a></li-->
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Policy papers and consultations" href="/search/policy-papers-and-consultations">Policy papers and consultations</a></li>
+          <li><a data-track-category="footerClicked" data-track-action="footerLinks" data-track-label="Transparency and freedom of information releases" href="/search/transparency-and-freedom-of-information-releases">Transparency and freedom of information releases</a></li>
+        </ul>
+      </div>
+      <hr>
+    </div>
+
+
+        <div class="footer-meta">
+          <div class="footer-meta-inner">
+              <h2 class="visuallyhidden">Support links</h2>
+<ul>
+  <li><a href="/help">Help</a></li>
+  <li><a href="/help/cookies">Cookies</a></li>
+  <li><a href="/contact">Contact</a></li>
+  <li><a href="/help/terms-conditions">Terms and conditions</a></li>
+  <li><a href="/cymraeg" lang="cy" hreflang="cy">Rhestr o Wasanaethau Cymraeg</a></li>
+  <li>Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service">Government Digital Service</a>
+</li>
+</ul>
+
+
+
+            <div class="open-government-licence">
+              <p class="logo"><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence</a></p>
+                <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated</p>
+            </div>
+          </div>
+
+          <div class="copyright">
+            <a href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/">© Crown copyright</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div id="global-app-error" class="app-error hidden"></div>
+
+      <script src="https://assets.integration.publishing.service.gov.uk/static/libs/jquery/jquery-1.12.4-c731c20e2995c576b0509d3bd776f7ab64a66b95363a3b5fae9864299ee594ed.js" crossorigin="anonymous" integrity="sha256-xzHCDimVxXawUJ0713b3q2Sma5U2OjtfrphkKZ7llO0="></script>
+<script src="https://assets.integration.publishing.service.gov.uk/static/header-footer-only-4dc496e41cc8dd0975ddbe0c360890a0fe8ae4e84a81d33981091620e1134981.js" crossorigin="anonymous" integrity="sha256-TcSW5BzI3Ql13b4MNgiQoP6K5OhKgdM5gQkWIOETSYE="></script>
+<script src="https://assets.integration.publishing.service.gov.uk/static/surveys-788a2738e684f829ac4d371ad4f181507bef3fffefb8342f5f7340dc829f4b31.js" crossorigin="anonymous" integrity="sha256-eIonOOaE+CmsTTca1PGBUHvvP//vuDQvX3NA3IKfSzE="></script>
+
+
+
+    <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
+  <script src="https://assets.integration.publishing.service.gov.uk/government-frontend/application-9ad729ce2f2531029bcaf028f3b0da6358ec38abddf22468d8f621fc9bbb5097.js" crossorigin="anonymous" integrity="sha256-mtcpzi8lMQKbyvAo87DaY1jsOKvd8iRo2PYh/Ju7UJc="></script><script type="application/ld+json">
+  {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.integration.publishing.service.gov.uk/government/publications/garden-communities"},"headline":"Garden communities","datePublished":null,"dateModified":"2019-05-03T13:49:05.000+00:00","description":"Large scale new developments that transform green spaces into sustainable places for people to live and helps meet the need for 300,000 news homes every year. ","publisher":{"@type":"Organization","name":"GOV.UK","url":"https://www.gov.uk","logo":{"@type":"ImageObject","url":"https://assets.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"}},"image":["https://assets.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-1x1-5ceffac04f7f6d4f421bd1d36dbb723ef48c15426d7f77f90be80a83af3c747e.png","https://assets.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-4x3-fcfe16abb1a015848e50d2ea797666a9eaf5158dca38ddfb1e52dc8c0543ab74.png","https://assets.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-16x9-fcf616879a7b37970df4d2117de962e08f7d057674ef1af6063dcdd529424eee.png"],"author":{"@type":"Organization","name":"Ministry of Housing, Communities \u0026 Local Government","url":"https://www.integration.publishing.service.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"},"articleBody":"\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eBuilding on the principles from the garden cities of the past, garden communities create long-term sustainable housing, infrastructure and services in green areas around the UK.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eWhat defines a garden community\u003c/strong\u003e\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea purpose built new community, or extension to existing town\u003c/li\u003e\n  \u003cli\u003eprovides a housing need with requirements for both affordable and self-build homes\u003c/li\u003e\n  \u003cli\u003eplanned by local authorities or private sector in consultation with the local community\u003c/li\u003e\n  \u003cli\u003ea sustainable long term plan for living\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAs well as building new homes the communities develop\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eemployment opportunity for residents.\u003c/li\u003e\n  \u003cli\u003epublic realm features, like town squares and cycle paths\u003c/li\u003e\n  \u003cli\u003etransport  infrastructure, including roads, trains, bus, utilities\u003c/li\u003e\n  \u003cli\u003esocial infrastructure, schools, community and health centres\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003cstrong\u003eContact us\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003eIf you’d like some further information about a garden community you can email us your question.\u003c/p\u003e\n\n\u003cp\u003eEmail  \u003ca href=\"mailto:gardencommunities@communities.gsi.gov.uk\"\u003egardencommunities@communities.gsi.gov.uk\u003c/a\u003e\u003c/p\u003e\n\n\u003c/div\u003e","about":[{"@context":"http://schema.org","@type":"Thing","sameAs":"https://www.integration.publishing.service.gov.uk/housing-local-and-community/housing-design-and-sustainability"},{"@context":"http://schema.org","@type":"Thing","sameAs":"https://www.integration.publishing.service.gov.uk/housing-local-and-community/land-development-opportunities"}]}
+</script><script type="application/ld+json">
+  {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https://www.integration.publishing.service.gov.uk/"}},{"@type":"ListItem","position":2,"item":{"name":"Housing, local and community","@id":"https://www.integration.publishing.service.gov.uk/housing-local-and-community"}},{"@type":"ListItem","position":3,"item":{"name":"Planning and building","@id":"https://www.integration.publishing.service.gov.uk/housing-local-and-community/planning-and-building"}},{"@type":"ListItem","position":4,"item":{"name":"Housing design and sustainability","@id":"https://www.integration.publishing.service.gov.uk/housing-local-and-community/housing-design-and-sustainability"}}]}
+</script>
+</body>
+</html>
